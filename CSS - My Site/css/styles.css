@@ -1,0 +1,151 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #40514E
+}
+
+span{
+  text-decoration: underline;
+}
+
+h1{
+  padding-top: 100px;
+  margin: 0px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+a{
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+  margin-top: 200px;
+  text-decoration:none;
+
+}
+
+hr{
+  border-style: dotted;
+  border-width: thick;
+  border-top: none;
+  width: 5%;
+  color: #EAF6F6;
+}
+
+p{
+  color: #40514E;
+
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.programming{
+  width: 25%;
+  height: 150px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.teamwork{
+  width: 25%;
+  height: 150px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.myImage{
+  width: 30%;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.middle-container{
+  margin-top: 100px 0;
+}
+
+.bottom-container{
+    padding: 50px;
+    background-color: #66BFBF;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.contact-me{
+  margin: 75px;
+  line-height: 2;
+}
+
+.btn{
+
+  margin-top: 20px;
+  padding:10px;
+  border: none;
+  border-radius:15px;
+  background-color: #11cdd4;
+  color: white;
+}
+
+.btn:hover{
+    background-color: #30e3cb;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.copy-right{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+.footer-link{
+  margin: 20px;
+}
+
+.skills{
+  margin-top: 75px;
+}
